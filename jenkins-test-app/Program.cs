@@ -10,7 +10,7 @@ namespace jenkins_test_app
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hellow Jenkins world !");
+            Console.WriteLine("Hello Jenkins world !");
         }
     }
 }
