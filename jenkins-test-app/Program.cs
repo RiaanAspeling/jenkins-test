@@ -11,6 +11,7 @@ namespace jenkins_test_app
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Jenkins world !");
+            Console.WriteLine("-----------------------------");
             Console.WriteLine("Press any key to continue..");
             Console.ReadLine();
         }
